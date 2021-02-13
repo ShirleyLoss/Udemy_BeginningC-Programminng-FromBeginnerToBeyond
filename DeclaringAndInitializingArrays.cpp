@@ -21,4 +21,5 @@ int main(){
   
   int another_array [] {1, 2, 3, 4, 5}; // size automatically calculated
 
+  return 0;
 }
