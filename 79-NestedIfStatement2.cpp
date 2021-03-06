@@ -39,7 +39,7 @@ int main(){
     }
     
     cout << fixed << setprecision(2); //Rounded dollars to two decimals under #include <iomanip>
-    cout << "The volumn of you package is: " << package_volume << endl;
+    cout << "The volume of you package is: " << package_volume << endl;
     cout << "Your package will cose $" << package_cost << "to ship" << endl;
   }
   
